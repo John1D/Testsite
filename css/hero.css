@@ -1,0 +1,68 @@
+html, body{
+	font-family: sans-serif, Times;
+	margin: 0;
+}
+
+header{
+	background-color: #ffecce;
+	padding: 40px 20px 30px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: darkorange;
+}
+
+header img{
+	border-radius: 150px;
+
+}
+/*<header>
+			<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/NarutoUzumaki.png/220px-NarutoUzumaki.png">
+			<h1>Naruto</h1>
+		</header>*/
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+	font-style: "Times New Roman", Times, serif;
+	background-color: #ffecce;
+}
+
+img.big-image{
+	max-width: 100%
+}
+
+p.caption{
+	font-size: 16px;
+	color: lightgrey;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+a{
+	color: ;
+	text-decoration: none;
+
+}
+
+footer{
+	padding: 40px 20px;
+	background-color: ##ffecce;
+}
+
+footer ul{
+	text-align: center;
+}
+
+footer ul li{
+	display: inline;
+
+}
